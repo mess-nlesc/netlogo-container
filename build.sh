@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo apptainer build netlogo.sif netlogo.def
+sudo apptainer build netlogo-headless.sif netlogo-headless.def
